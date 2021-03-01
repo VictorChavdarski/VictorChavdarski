@@ -2,7 +2,8 @@ Hi there, I'm Victor  👋
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+Email : kingvicho99@gmail.com
+
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -25,4 +26,4 @@ Hi there, I'm Victor  👋
 
 [instagram]: https://instagram.com/kingvicho
 [linkedin]: https://linkedin.com/in/victor-chavdarski-7004351b4
-[gmail]: https://kingvicho99@gmail.com
+
