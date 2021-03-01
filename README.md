@@ -3,7 +3,7 @@ Hi there, I'm Victor  👋
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BF22SUQOxT6uswPEH1qSdmQ%3D%3D" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -28,3 +28,6 @@ Hi there, I'm Victor  👋
 
 <br />
 <br />
+
+[instagram]: https://instagram.com/kingvicho
+[linkedin]: linkedin.com/in/victor-chavdarski-7004351b4
