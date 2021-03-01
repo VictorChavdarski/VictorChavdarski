@@ -10,7 +10,7 @@ Hi there, I'm Victor  👋
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="CSharp" width="26px" src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fc--4.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fc--4&tbnid=ehRRUk7OZIwABM&vet=12ahUKEwik2Pyur4_vAhVH9hoKHXoWB94QMygAegUIARCVAQ..i&docid=D1xjoW1CATsBhM&w=2500&h=2500&q=c%23%20icon&ved=2ahUKEwik2Pyur4_vAhVH9hoKHXoWB94QMygAegUIARCVAQ />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
