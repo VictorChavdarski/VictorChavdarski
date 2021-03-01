@@ -25,4 +25,4 @@ Hi there, I'm Victor  👋
 
 [instagram]: https://instagram.com/kingvicho
 [linkedin]: https://linkedin.com/in/victor-chavdarski-7004351b4
-[gmail]: https://linkedin.com/in/victor-chavdarski-7004351b4
+[gmail]: https://kingvicho99@gmail.com
