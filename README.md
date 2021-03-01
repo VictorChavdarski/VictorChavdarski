@@ -30,4 +30,4 @@ Hi there, I'm Victor  👋
 <br />
 
 [instagram]: https://instagram.com/kingvicho
-[linkedin]: linkedin.com/in/victor-chavdarski-7004351b4
+[linkedin]: https://linkedin.com/in/victor-chavdarski-7004351b4
